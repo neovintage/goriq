@@ -1,0 +1,16 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "goriq_example",
+    "username": "aname",
+    "password": "apassword",
+    "options": {
+      "sslmode": "disable"
+    }
+  },
+  "api": {
+    "username": "123123asdfasdf",
+    "password": "123123asdfasdf"
+  }
+}

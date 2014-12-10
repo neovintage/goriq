@@ -1,0 +1,5 @@
+github.com/codegangsta/cli          7381bc4e62942763475703c7edd405f1e42adf4f
+github.com/lib/pq                   b1d1c3e32b52c49f3e29622b3d88755f6c2c5cd7
+github.com/mattes/migrate/migrate   60db19971ebeea86b8edcedbabb193a4fb818ce5
+github.com/coopernurse/gorp         2739f6901c8eff11f1e9dcc404b87860bfd74c11
+bitbucket.org/pkg/inflect           8961c3750a47b8c0b3e118d52513b97adf85a7e8
